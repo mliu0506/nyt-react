@@ -1,0 +1,7 @@
+.jumbotron {
+  background: url("./newyork.jpg");
+  background-position: center -50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
